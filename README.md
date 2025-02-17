@@ -1,1 +1,3 @@
-# neural-network
+# Neural-Network
+
+Home Assignement-1
